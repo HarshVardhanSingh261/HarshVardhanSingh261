@@ -1,6 +1,6 @@
 ## Hello, I'm Harsh Vardhan Singh 👋
 
-🔭 I’m an amateur **web-developer**, **data-scienece enthusiast** and an **Engineering student** at [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)<br/>
+🔭 I’m an amateur **web-developer**, **data-science enthusiast** and an **Engineering student** at [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)<br/>
 🌱 I’m currently working to develop a model to identify (Binary and multi-class) Parkinson's Disease.<br/>
 👯 I’m looking to collaborate on any new web technologies.<br/>
 📫 How to reach me:
