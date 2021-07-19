@@ -6,8 +6,8 @@
 👯 I’m looking to collaborate on any new web technologies.<br/>
 📫 How to reach me:
 
-[![Linkedin: harsh-vardhan-singh](https://img.shields.io/badge/-bhargav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hvs261/)](https://www.linkedin.com/in/hvs261/)
-[![mail@bhargav](https://img.shields.io/badge/mail%40-bhargav-blue)](mailto:harshvardhansingh@iitg.ac.in)
+[![Linkedin: harsh-vardhan-singh](https://img.shields.io/badge/-Harsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hvs261/)](https://www.linkedin.com/in/hvs261/)
+[![mail@Harsh](https://img.shields.io/badge/mail%40-Harsh-blue)](mailto:harshvardhansingh@iitg.ac.in)
 
 ### Languages and Tools:  
 
